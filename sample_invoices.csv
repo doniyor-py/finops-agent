@@ -1,0 +1,3 @@
+invoice_id,counterparty,amount_gbp,due_date,status,currency
+DEMO-001,Acme Ltd,1250.00,2026-03-01,overdue,GBP
+DEMO-002,Contoso Services,5750.00,2026-02-15,overdue,GBP
